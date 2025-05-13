@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="selenium-server-4.31.0">
+    <archive path="C:/Users/user/Downloads/selenium-server-4.31.0.jar" />
+  </library>
+  <library name="Maven: io.opentelemetry:opentelemetry-sdk-logs:1.48.0">
+    <archive path="C:/Users/user/.m2/repository/io/opentelemetry/opentelemetry-sdk-logs/1.48.0/opentelemetry-sdk-logs-1.48.0.jar" />
+  </library>
+  <library name="Maven: io.opentelemetry:opentelemetry-api:1.48.0">
+    <archive path="C:/Users/user/.m2/repository/io/opentelemetry/opentelemetry-api/1.48.0/opentelemetry-api-1.48.0.jar" />
+  </library>
+  <library name="Maven: net.bytebuddy:byte-buddy:1.17.2">
+    <archive path="C:/Users/user/.m2/repository/net/bytebuddy/byte-buddy/1.17.2/byte-buddy-1.17.2.jar" />
+  </library>
+  <library name="Maven: com.google.guava:guava:33.4.5-jre">
+    <archive path="C:/Users/user/.m2/repository/com/google/guava/guava/33.4.5-jre/guava-33.4.5-jre.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-support:4.30.0">
+    <archive path="C:/Users/user/.m2/repository/org/seleniumhq/selenium/selenium-support/4.30.0/selenium-support-4.30.0.jar" />
+  </library>
+  <library name="Maven: io.opentelemetry:opentelemetry-exporter-logging:1.48.0">
+    <archive path="C:/Users/user/.m2/repository/io/opentelemetry/opentelemetry-exporter-logging/1.48.0/opentelemetry-exporter-logging-1.48.0.jar" />
+  </library>
+  <library name="Maven: org.apache.commons:commons-exec:1.4.0">
+    <archive path="C:/Users/user/.m2/repository/org/apache/commons/commons-exec/1.4.0/commons-exec-1.4.0.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-http:4.30.0">
+    <archive path="C:/Users/user/.m2/repository/org/seleniumhq/selenium/selenium-http/4.30.0/selenium-http-4.30.0.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-firefox-driver:4.30.0">
+    <archive path="C:/Users/user/.m2/repository/org/seleniumhq/selenium/selenium-firefox-driver/4.30.0/selenium-firefox-driver-4.30.0.jar" />
+  </library>
+  <library name="Maven: io.opentelemetry:opentelemetry-sdk:1.48.0">
+    <archive path="C:/Users/user/.m2/repository/io/opentelemetry/opentelemetry-sdk/1.48.0/opentelemetry-sdk-1.48.0.jar" />
+  </library>
+  <library name="Maven: io.opentelemetry:opentelemetry-sdk-trace:1.48.0">
+    <archive path="C:/Users/user/.m2/repository/io/opentelemetry/opentelemetry-sdk-trace/1.48.0/opentelemetry-sdk-trace-1.48.0.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-remote-driver:4.30.0">
+    <archive path="C:/Users/user/.m2/repository/org/seleniumhq/selenium/selenium-remote-driver/4.30.0/selenium-remote-driver-4.30.0.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-ie-driver:4.30.0">
+    <archive path="C:/Users/user/.m2/repository/org/seleniumhq/selenium/selenium-ie-driver/4.30.0/selenium-ie-driver-4.30.0.jar" />
+  </library>
+  <library name="Maven: io.opentelemetry:opentelemetry-sdk-extension-autoconfigure-spi:1.48.0">
+    <archive path="C:/Users/user/.m2/repository/io/opentelemetry/opentelemetry-sdk-extension-autoconfigure-spi/1.48.0/opentelemetry-sdk-extension-autoconfigure-spi-1.48.0.jar" />
+  </library>
+  <library name="Maven: io.opentelemetry:opentelemetry-sdk-common:1.48.0">
+    <archive path="C:/Users/user/.m2/repository/io/opentelemetry/opentelemetry-sdk-common/1.48.0/opentelemetry-sdk-common-1.48.0.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-json:4.30.0">
+    <archive path="C:/Users/user/.m2/repository/org/seleniumhq/selenium/selenium-json/4.30.0/selenium-json-4.30.0.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-chromium-driver:4.30.0">
+    <archive path="C:/Users/user/.m2/repository/org/seleniumhq/selenium/selenium-chromium-driver/4.30.0/selenium-chromium-driver-4.30.0.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-manager:4.30.0">
+    <archive path="C:/Users/user/.m2/repository/org/seleniumhq/selenium/selenium-manager/4.30.0/selenium-manager-4.30.0.jar" />
+  </library>
+  <library name="Maven: com.google.auto.service:auto-service-annotations:1.1.1">
+    <archive path="C:/Users/user/.m2/repository/com/google/auto/service/auto-service-annotations/1.1.1/auto-service-annotations-1.1.1.jar" />
+  </library>
+  <library name="Maven: org.jspecify:jspecify:1.0.0">
+    <archive path="C:/Users/user/.m2/repository/org/jspecify/jspecify/1.0.0/jspecify-1.0.0.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-java:4.30.0">
+    <archive path="C:/Users/user/.m2/repository/org/seleniumhq/selenium/selenium-java/4.30.0/selenium-java-4.30.0.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-api:4.30.0">
+    <archive path="C:/Users/user/.m2/repository/org/seleniumhq/selenium/selenium-api/4.30.0/selenium-api-4.30.0.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-chrome-driver:4.30.0">
+    <archive path="C:/Users/user/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/4.30.0/selenium-chrome-driver-4.30.0.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-devtools-v133:4.30.0">
+    <archive path="C:/Users/user/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v133/4.30.0/selenium-devtools-v133-4.30.0.jar" />
+  </library>
+  <library name="Maven: com.google.guava:failureaccess:1.0.3">
+    <archive path="C:/Users/user/.m2/repository/com/google/guava/failureaccess/1.0.3/failureaccess-1.0.3.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-devtools-v132:4.30.0">
+    <archive path="C:/Users/user/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v132/4.30.0/selenium-devtools-v132-4.30.0.jar" />
+  </library>
+  <library name="Maven: io.opentelemetry:opentelemetry-context:1.48.0">
+    <archive path="C:/Users/user/.m2/repository/io/opentelemetry/opentelemetry-context/1.48.0/opentelemetry-context-1.48.0.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-devtools-v134:4.30.0">
+    <archive path="C:/Users/user/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v134/4.30.0/selenium-devtools-v134-4.30.0.jar" />
+  </library>
+  <library name="Maven: com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-with-guava">
+    <archive path="C:/Users/user/.m2/repository/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-edge-driver:4.30.0">
+    <archive path="C:/Users/user/.m2/repository/org/seleniumhq/selenium/selenium-edge-driver/4.30.0/selenium-edge-driver-4.30.0.jar" />
+  </library>
+  <library name="Maven: io.opentelemetry:opentelemetry-sdk-extension-autoconfigure:1.48.0">
+    <archive path="C:/Users/user/.m2/repository/io/opentelemetry/opentelemetry-sdk-extension-autoconfigure/1.48.0/opentelemetry-sdk-extension-autoconfigure-1.48.0.jar" />
+  </library>
+  <library name="Maven: io.opentelemetry:opentelemetry-sdk-metrics:1.48.0">
+    <archive path="C:/Users/user/.m2/repository/io/opentelemetry/opentelemetry-sdk-metrics/1.48.0/opentelemetry-sdk-metrics-1.48.0.jar" />
+  </library>
+  <library name="Maven: com.google.errorprone:error_prone_annotations:2.36.0">
+    <archive path="C:/Users/user/.m2/repository/com/google/errorprone/error_prone_annotations/2.36.0/error_prone_annotations-2.36.0.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-os:4.30.0">
+    <archive path="C:/Users/user/.m2/repository/org/seleniumhq/selenium/selenium-os/4.30.0/selenium-os-4.30.0.jar" />
+  </library>
+  <library name="Maven: com.google.j2objc:j2objc-annotations:3.0.0">
+    <archive path="C:/Users/user/.m2/repository/com/google/j2objc/j2objc-annotations/3.0.0/j2objc-annotations-3.0.0.jar" />
+  </library>
+  <library name="Maven: org.seleniumhq.selenium:selenium-safari-driver:4.30.0">
+    <archive path="C:/Users/user/.m2/repository/org/seleniumhq/selenium/selenium-safari-driver/4.30.0/selenium-safari-driver-4.30.0.jar" />
+  </library>
+  <library name="Maven: org.testng:testng:7.10.2">
+    <archive path="C:/Users/user/.m2/repository/org/testng/testng/7.10.2/testng-7.10.2.jar" />
+  </library>
+  <library name="Maven: org.webjars:jquery:3.7.1">
+    <archive path="C:/Users/user/.m2/repository/org/webjars/jquery/3.7.1/jquery-3.7.1.jar" />
+  </library>
+  <library name="Maven: com.beust:jcommander:1.82">
+    <archive path="C:/Users/user/.m2/repository/com/beust/jcommander/1.82/jcommander-1.82.jar" />
+  </library>
+  <library name="Maven: org.slf4j:slf4j-api:1.7.36">
+    <archive path="C:/Users/user/.m2/repository/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.jar" />
+  </library>
+</eclipse-userlibraries>
+
